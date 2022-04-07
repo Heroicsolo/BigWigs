@@ -1,4 +1,4 @@
-local L = BigWigsAPI:NewLocale("BigWigs: Common", "ruRU")
+local L = BigWigsAPI:NewLocale("BigWigs: Common", "uaUA")
 if not L then return end
 
 -- Prototype.lua common words
